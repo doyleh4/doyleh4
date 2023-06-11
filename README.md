@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Harry Doyle a final year Computer Sceince Student in Trinity College Dublin
-- 👀 I’m interested in Computer Vision, Computer Graphics, Machine Learning, Computational Linguistics and web-development
+- 👋 Hi, I’m Harry Doyle a masters in Computer Sceince Student from Trinity College Dublin
+- 👀 I’m interested in Computer Vision, Computer Graphics and Machine Learning.
 - 🌱 I’m currently learning OpenCV, OpenGL and React.js
 - 📫 How to reach me? Phone: +353867302825 or email: doyleh4@tcd.ie
 
